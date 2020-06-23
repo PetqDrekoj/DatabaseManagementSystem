@@ -1,0 +1,9 @@
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\bin\Debug\PracticalExamDBMS.exe.config
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\bin\Debug\PracticalExamDBMS.exe
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\bin\Debug\PracticalExamDBMS.pdb
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.csprojAssemblyReference.cache
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.Form1.resources
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.Properties.Resources.resources
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.csproj.GenerateResource.cache
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.exe
+C:\Users\dyeni\Desktop\SDB\PracticalExamDBMS\PracticalExamDBMS\obj\Debug\PracticalExamDBMS.pdb

@@ -1,0 +1,5 @@
+﻿connection:Data Source=DESKTOP-3G564KV\SQLEXPRESS;Initial Catalog = SupermarketQuery; Integrated Security = True
+masterTable:Departments
+childTable:Employees
+masterTable2:Employees
+childTable2:Payment

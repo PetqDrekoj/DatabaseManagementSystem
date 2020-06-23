@@ -1,0 +1,9 @@
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\bin\Debug\labdb1.exe.config
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\bin\Debug\labdb1.exe
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\bin\Debug\labdb1.pdb
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.csprojAssemblyReference.cache
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.Properties.Resources.resources
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.csproj.GenerateResource.cache
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.exe
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.pdb
+C:\Users\dyeni\Desktop\SDB\labdb1\labdb1\obj\Debug\labdb1.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\dyeni\Desktop\SDB\Lab2\Lab2\obj\Debug\Lab2.pdb
